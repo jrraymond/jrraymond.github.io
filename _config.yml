@@ -1,0 +1,12 @@
+# Site settings
+title: running stick
+#email: 
+description: > # this means to ignore newlines until "baseurl:"
+  Masters student at Wesleyan University.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "jrraymond.github.io" # the base hostname & protocol for your site
+twitter_username: 0O0O0O0O0Oooooo
+github_username: jrraymond
+
+# Build settings
+markdown: kramdown
